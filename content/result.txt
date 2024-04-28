@@ -1,0 +1,2 @@
+Here are two file contents: My first text , My second text.
+These are the contents of te two files
